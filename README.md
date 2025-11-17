@@ -4,6 +4,9 @@ My JMeter performance testing project using BlazeDemo demo site.
 # Project Contents
 BlazeDemo_TestPlan.jmx – Main JMeter test plan
 
+# Config Elements
+- HTTP Request Defaults
+
 # HTTP Requests for:
 - Launch Home Page
 - Find Flights
